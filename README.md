@@ -1,5 +1,5 @@
-# My Project
+# Plant portfolio
 
-Welcome to my GitHub Pages project! 🎉
+I mostly post plants here 🌱
 
-This is a simple static site published from a GitHub repository.
+
